@@ -14,17 +14,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    
     <dependency>
   	  <groupId>jakarta.servlet</groupId>
   	  <artifactId>jakarta.servlet-api</artifactId>
   	  <version>5.0.0</version>
   	  <scope>provided</scope>
-	</dependency>
-	<dependency>
-	  <groupId>com.github.911992</groupId>
-	  <artifactId>WebSocket_HandshakeRequest_to_Servlet31_HttpServletRequest_Wrapper</artifactId>
-	  <version>0.1.0</version>
 	</dependency>
   </dependencies>
   <build>
